@@ -180,6 +180,10 @@ a:hover {
   margin-bottom: 1em;
 }
 
+.icon-button{
+  margin-right: 5px;
+}
+
 .social-button {
   display: inline;
   padding: 8px;
